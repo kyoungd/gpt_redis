@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: gpt-redis
+Version: 0.1
+Summary: redis tools
+Home-page: http://github.com/kyoungd/gpt_redis
+Author: Young Kwon
+Author-email: kyoungd@hotmail.com
+License: proprietary

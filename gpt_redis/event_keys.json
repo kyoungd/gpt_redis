@@ -1,0 +1,26 @@
+{
+    "events": {
+        "test_event": "TEST_EVENT",
+        "test_event_return": "TEST_EVENT_RETURN",
+        "calendar_add_event": "CALENDAR_ADD_EVENT",
+        "calendar_cancel_event": "CALENDAR_CANCEL_EVENT",
+        "calendar_edit_event": "CALENDAR_EDIT_EVENT",
+        "calendar_refresh_calendar": "CALENDAR_REFRESH_CALENDAR",
+        "calendar_get_available_appointments": "CALENDAR_GET_AVAILABLE_APPOINTMENTS",
+        "pinecone_add_data": "PINECONE_ADD_DATA",
+        "sms_send": "SMS_SEND",
+        "email_send": "EMAIL_SEND"
+    },
+    "subscriptions": {
+        "test_event": "TEST_EVENT",
+        "test_event_return": "TEST_EVENT_RETURN",
+        "calendar_add_event": "CALENDAR_ADD_EVENT",
+        "calendar_cancel_event": "CALENDAR_CANCEL_EVENT",
+        "calendar_edit_event": "CALENDAR_EDIT_EVENT",
+        "calendar_refresh_calendar": "CALENDAR_REFRESH_CALENDAR",
+        "calendar_get_available_appointments": "CALENDAR_GET_AVAILABLE_APPOINTMENTS",
+        "pinecone_add_data": "PINECONE_ADD_DATA",
+        "sms_send": "SMS_SEND",
+        "email_send": "EMAIL_SEND"
+    }
+}
